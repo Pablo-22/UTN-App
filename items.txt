@@ -1,0 +1,17 @@
+-Añadir empleados
+
+-Generar credencial
+
+-Informe de asistencia
+
+-Autentificación de administrador
+
+-Control de llegada
+
+-Eliminar empleados
+
+-
+
+-
+
+-
